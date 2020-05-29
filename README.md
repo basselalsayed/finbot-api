@@ -22,10 +22,6 @@ If the bot does not understand or if the user is unsure about what to ask, the b
 
 [Meghan Iankov](https://github.com/meghaniankov) | [Niki Manoledaki](https://github.com/nikimanoledaki) | [Bassel Al-Sayed](https://github.com/basselalsayed) | [Shadi Khazaei](https://github.com/shadz22) | [Emily Spencer](https://github.com/emilyjspencer)
 
-## Deployed App
-
-Frontend: https://finbot-fe.herokuapp.com/ 
-API: https://finbot--api.herokuapp.com/
 
 ## Getting Started
 
@@ -62,6 +58,7 @@ $ pipenv install
 ```
 $ python manage.py runserver
 ```
+## Run the [Frontend](https://github.com/basselalsayed/finbot)
 
 ## Built With
 
